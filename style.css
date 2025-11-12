@@ -596,8 +596,8 @@ nav ul li a:hover {
     flex: 1;
     border-radius: 10px;
     overflow: hidden;
-    box
-
+    box-shadow: var(--shadow);
+}
 
 /* Newsletter Section */
 .newsletter {
